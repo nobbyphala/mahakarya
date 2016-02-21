@@ -1,0 +1,74 @@
+.kotak_logo {
+	display: block;
+	width: 100%;
+	height: 300px;
+	background-color:#CCC;
+	border: 5px #fff solid;
+}
+.kotak {
+	height: 200px;
+	padding:0;
+}
+.kotak:hover {
+	cursor:pointer;
+}
+.kotak2 {
+	background-color: #fff;
+	height: 220px;
+	border: 2px #fff solid;
+	padding:0;
+}
+.kotak3 {
+	background-color: #fff;
+	height: 250px;
+	border: 2px #fff solid;
+	padding:0;
+}
+.kotak2:hover {
+	cursor: pointer;
+	border: 2px #CCCCCC solid;
+}
+.gambar_kotak {
+	margin-top: 10px;
+	height: auto;
+	width: 100%;
+}
+.gambar_kotak2 {
+	margin-top:0px;
+	height:200px;
+	width: 200px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.gambar_kotak3 {
+	margin-top:10px;
+	height:150px;
+	width: 100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.caption3 p {
+  font-size: 12px;
+  margin-top: 5px;
+  height: 20px;
+  width: 100%;
+  color:#000;
+}
+.caption2 p {
+  font-size: 12px;
+  margin-top: -20px;
+  height: 20px;
+  width: 100%;
+  color:#000;
+}
+.caption1 p {
+  font-size: 20px;
+  margin-top: -15px;
+  height: 50px;
+  width: 100%;
+  overflow: hidden;
+}
+.caption1 p:hover {
+  color: #cccccc;
+  cursor: pointer;
+}

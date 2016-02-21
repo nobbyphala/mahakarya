@@ -1,0 +1,22 @@
+<body>
+<div class="navbar">
+	<nav class="lighten-1" role="navigation" style="background-color:#000;">
+		<div class="row" >
+			<div class="col s12">
+				<div class="nav-wrapper"><span style="margin-left:10px; position:relative; top:7px; margin-right:10px;"><img src="<?php echo base_url(); ?>assets/logo/logo.svg" width="50px"/></span><span style="color:#00ffff; font-size:18px;">Mahakarya-TC</span>
+					<ul id="nav-mobile" class="right side-nav">
+						<li class="waves-effect"><a style="color:#fff" href="<?php echo base_url(); ?>">Beranda</a></li>
+						<!--li class="waves-effect"><a style="color:#fff" href="<?php echo base_url(); ?>final_project">Final Project</a></li-->
+						<li class="waves-effect"><a style="color:#fff" href="<?php echo base_url(); ?>tugas_akhir">Tugas Akhir</a></li>
+                              <li class="waves-effect"><a style="color:#fff" href="<?php echo base_url(); ?>final_project">Final Projek</a></li>
+                              <li class="waves-effect"><a style="color:#fff" href="<?php echo base_url(); ?>pkm">PKM</a></li>
+						<li class="waves-effect"><a style="color:#fff" href="<?php echo base_url(); ?>prestasi">Prestasi</a></li>
+                              <li class="waves-effect"><a style="color:#fff" href="<?php echo base_url(); ?>kerjasama">Kerjasama</a></li>
+						<li class="waves-effect"><a style="color:#fff" href="<?php echo base_url(); ?>tentang_kami">Tentang Kami</a></li>
+                              <li class="waves-effect"><a style="color:#fff" href="<?php echo base_url(); ?>kontak_kami">Kontak Kami</a></li>
+					</ul>
+					<a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a> </div>
+			</div>
+		</div>
+	</nav>
+</div>
